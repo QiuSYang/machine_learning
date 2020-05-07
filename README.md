@@ -1,2 +1,2 @@
 # machine_learning
-Daily ML study rrecord
+Daily ML study record
